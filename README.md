@@ -5,9 +5,13 @@
 
 <p align="left"> <a href="https://twitter.com/uncoolarjun" target="blank"><img src="https://img.shields.io/twitter/follow/uncoolarjun?logo=twitter&style=for-the-badge" alt="uncoolarjun" /></a> </p>
 
+- 👨‍🎓 An undergraduate pursuing B.Tech in Computer Science and Engineering with specialization in Blockchain Technology at VIT Vellore.
+
 - 🌱 I’m currently learning **Backend Developement, Data Structures and Algorithms**
 
 - 💬 Ask me about **ReactJS, C++**
+
+- 🤝 Always Looking forward to collaborate
 
 - 📫 How to reach me **arjunkhanna0108@gmail.com**
 
