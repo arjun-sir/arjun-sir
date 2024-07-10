@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Arjun Khanna</h1>
-<h5 align="center">Welcome to my GitHub profile! I'm a passionate and driven Full-Stack Developer with a strong foundation in both frontend and backend technologies. I am currently pursuing my Bachelor's degree in Computer Science and Engineering with a specialization in Blockchain from Vellore Institute of Technology, Vellore, India. I'm enthusiastic about building impactful web applications and continuously improving my skill set.</h3>
+<p align="center">Welcome to my GitHub profile! I'm a passionate and driven Full-Stack Developer with a strong foundation in both frontend and backend technologies. I am currently pursuing my Bachelor's degree in Computer Science and Engineering with a specialization in Blockchain from Vellore Institute of Technology, Vellore, India. I'm enthusiastic about building impactful web applications and continuously improving my skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-sir&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-sir" /> </p>
 
