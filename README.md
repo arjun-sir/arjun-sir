@@ -1,29 +1,27 @@
-<h1 align="center">Hello World 👋, I'm Arjun Khanna</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi there 👋, I'm Arjun Khanna</h1>
+<h5 align="center">Welcome to my GitHub profile! I'm a passionate and driven Full-Stack Developer with a strong foundation in both frontend and backend technologies. I am currently pursuing my Bachelor's degree in Computer Science and Engineering with a specialization in Blockchain from Vellore Institute of Technology, Vellore, India. I'm enthusiastic about building impactful web applications and continuously improving my skill set.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arjun-sir&label=Profile%20views&color=0e75b6&style=flat" alt="arjun-sir" /> </p>
 
-<p align="left"> <a href="https://twitter.com/uncoolarjun" target="blank"><img src="https://img.shields.io/twitter/follow/uncoolarjun?logo=twitter&style=for-the-badge" alt="uncoolarjun" /></a> </p>
+## 🔧 Technical Skills
 
-- 👨‍🎓 An undergraduate pursuing B.Tech in Computer Science and Engineering with specialization in Blockchain Technology at VIT Vellore.
+- **Frontend**: ReactJS, NextJS, TailwindCSS, Bootstrap, HTML, CSS, JavaScript, TypeScript
+- **Backend**: NodeJS, Express, Firebase, Supabase, Prisma
+- **Tools**: PostgreSQL, MySQL, MongoDB, Python, Git/Github
+- **Other Skills**: RESTful API Development, Responsive Web Design, Data Structures and Algorithms
 
-- 🌱 I’m currently learning **Backend Developement, Data Structures and Algorithms**
+## 🧑 About Me
 
-- 💬 Ask me about **ReactJS, C++**
+- 🔭 I’m currently working on my DSA skills.
+- 🌱 I’m currently learning advanced TypeScript and exploring serverless architecture.
+- 👯 I’m looking to collaborate on innovative web development projects.
+- 🤔 I’m looking for help with open-source contributions.
+- 💬 Ask me about full-stack development, web technologies, and my projects.
+- 📫 How to reach me: [arjunkhanna0108@gmail.com](mailto:arjunkhanna0108@gmail.com)
+- 😄 Pronouns: He/Him
 
-- 🤝 Always Looking forward to collaborate
+## 📫 Contact Me
 
-- 📫 How to reach me **arjunkhanna0108@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/uncoolarjun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="uncoolarjun" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/arjun-khanna-bigw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arjun-khanna-bigw" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arjun-sir&show_icons=true&locale=en" alt="arjun-sir" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arjun-sir&" alt="arjun-sir" /></p>
+- Email: [arjunkhanna0108@gmail.com](mailto:arjunkhanna0108@gmail.com)
+- LinkedIn: [linkedin.com/in/arjun-khanna-bigw](https://linkedin.com/in/arjun-khanna-bigw)
+- GitHub: [github.com/arjun-sir](https://github.com/arjun-sir)
